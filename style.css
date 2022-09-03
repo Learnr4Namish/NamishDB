@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin: 0;
+}  
+.head {
+    
+}
+.middle {
+    font-size: 22.5px;
+}
+.nav {
+    display: flex;
+}
+h1 {
+    font-variant: normal;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.inform {
+    background-color: rgb(174, 0, 255);
+   color: white;
+   padding: 25px;
+   border-radius: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+button {
+    background-color: rgb(255, 230, 0);
+    padding: 15px;
+    width: 10.5em;
+    font-size: 18px;
+    transition: 0.56s;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+button:active {
+    background-color: rgb(166, 149, 0);
+    padding: 15px;
+    width: 10.5em;
+    font-size: 18px;
+    transition: 0.56s;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.inform p {
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.nav {
+    margin-left: 12px;
+}
